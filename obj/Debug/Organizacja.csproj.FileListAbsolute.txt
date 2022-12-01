@@ -1,0 +1,12 @@
+D:\Marcel Zarębski\Organizacja\bin\Debug\Organizacja.exe.config
+D:\Marcel Zarębski\Organizacja\bin\Debug\Organizacja.exe
+D:\Marcel Zarębski\Organizacja\bin\Debug\Organizacja.pdb
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.csproj.AssemblyReference.cache
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.csproj.SuggestedBindingRedirects.cache
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.Form1.resources
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.Form2.resources
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.Properties.Resources.resources
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.csproj.GenerateResource.cache
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.csproj.CoreCompileInputs.cache
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.exe
+D:\Marcel Zarębski\Organizacja\obj\Debug\Organizacja.pdb
